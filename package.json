@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lekandev/zuri-chat-app/issues"
   },
-  "homepage": "https://github.com/lekandev/zuri-chat-app#readme"
+  "homepage": "https://github.com/lekandev/zuri-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^4.0.1"
+  }
 }
